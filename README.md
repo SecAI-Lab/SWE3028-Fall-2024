@@ -10,3 +10,4 @@ You may want to create an account in [Overleaf](https://www.overleaf.com/latex/t
 
 ### Teams (TBA)
 
+Team C 런닝머신: 김예담*, 김나영, 박준현, 방기호 - https://github.com/zzangyehdarm/Capston_TeamC
