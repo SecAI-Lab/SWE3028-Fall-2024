@@ -11,6 +11,7 @@ You may want to create an account in [Overleaf](https://www.overleaf.com/latex/t
 ### Teams (TBA)
 
 * Team C 런닝머신: 김예담*, 김나영, 박준현, 방기호 - https://github.com/zzangyehdarm/Capston_TeamC
-* Team D [Team_D]: 이승환*, 이채연, 박문희, 정재윤 - https://github.com/pea040119/SKKUking
+* Team D [Team_D]: 이승환*, 이채연, 박문희, 정재윤 - https://github.com/pea040119/Capston_Team_D
 * Team J [Last Lap]: 장민석*, 김현진, 송민석, 조재희 - https://github.com/Last-Lap/SKKULab
 * Team I [I-dle]: 김세헌*, 김형진, 노하연, 박인찬 - https://github.com/Snowor1d/2024_I-dle
+want to reserve 13:45-14:00 block
