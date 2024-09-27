@@ -19,3 +19,4 @@ You may want to create an account in [Overleaf](https://www.overleaf.com/latex/t
 * Team J [Last Lap]: 장민석*, 김현진, 송민석, 조재희 - https://github.com/Last-Lap/SKKULab
 * Team I [I-dle]: 김세헌*, 김형진, 노하연, 박인찬 - https://github.com/Snowor1d/2024_I-dle
 want to reserve 13:45-14:00 block
+* Team L [Losers]: 이지훈*, 신재욱, 홍마노, Manu Gomez - https://github.com/Team-Losers/2024_Fall_Capstone
