@@ -19,5 +19,5 @@ You may want to create an account in [Overleaf](https://www.overleaf.com/latex/t
 * Team H [EQUIPO SASHIMI]: 방건우, 최지애, 황정윤*, Mikel - https://github.com/lastcnv05/CapstoneProject-2024-Fall
 * Team I [I-dle]: 김세헌*, 김형진, 노하연, 박인찬 - https://github.com/Snowor1d/2024_I-dle
 * Team J [Last Lap]: 장민석*, 김현진, 송민석, 조재희 - https://github.com/Last-Lap/SKKULab
-* Team K [Kapstone]: 이주용*, 천예원, 황지희, Jorge - https://github.com/applepops/2024_Kapstone
+* Team K [Kapstone]: 이주용*, 천예원, 황지희, Jorge - https://github.com/SkkuKapstone/2024_Kapstone
 * Team L [Losers]: 이지훈*, 신재욱, 홍마노, Manu Gomez - https://github.com/Team-Losers/2024_Fall_Capstone
